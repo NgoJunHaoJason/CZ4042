@@ -1,5 +1,8 @@
 # CZ4042
 
-Neural Networks and Deep Learning project, assignments and tutorials
+Nanyang Technological University  
+School of Computer Science and Engineering
 
-to set-up environment: run `conda create --name <env> --file cz4042_venv.txt`
+Academic Year 2020-2021 Semester 1
+
+source code for CZ4042 Neural Networks and Deep Learning project, assignments and tutorials
