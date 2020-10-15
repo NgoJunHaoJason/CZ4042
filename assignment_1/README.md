@@ -13,10 +13,10 @@ source code for CZ4042 Neural Networks and Deep Learning assignment 1
 
 - data/ - folder that contains the provided data, as csv files
 - starter_code/ - code provided as starting references for this assignment
-- **a_classification.ipynb** - jupyter notebook for part a of this assignment
+- **a_classification.ipynb** - jupyter notebook for part a
 - ai_venv.txt - list of dependencies that may be used in this assignment
 - assignment_1.pdf - instructions for this assignment
-- **b_regression.ipynb** - jupyter notebook for part b of this assignment
+- **b_regression.ipynb** - jupyter notebook for part b
 
 ## set-up
 
