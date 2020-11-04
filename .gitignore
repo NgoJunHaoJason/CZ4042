@@ -1,4 +1,5 @@
 output/
+wandb/
 
 # models / weights
 *.h5
