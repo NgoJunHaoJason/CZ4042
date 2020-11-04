@@ -31,3 +31,4 @@ prerequisite: anaconda (version 4.8.4)
 - run `jupyter notebook`
   - it should open up in your browser
 - click on the notebook that you want to view
+
