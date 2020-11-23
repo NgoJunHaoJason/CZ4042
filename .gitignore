@@ -1,3 +1,5 @@
+# repo-specific
+project/5_saved_weights
 output/
 wandb/
 
