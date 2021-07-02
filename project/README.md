@@ -7,6 +7,8 @@ Academic Year 2020-2021 Semester 1
 
 source code for CZ4042 Neural Networks and Deep Learning project
 
+[Teammate's repo with nicer README](https://github.com/Todayisagreatday/CZ4042-Neural-Nets/tree/main/Neural%20Networks/NN%20Project)
+
 ---
 
 notebooks written by me:
